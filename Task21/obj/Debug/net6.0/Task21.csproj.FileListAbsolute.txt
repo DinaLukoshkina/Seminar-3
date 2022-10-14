@@ -1,0 +1,15 @@
+/Users/work/Desktop/Seminar 3./Task21/bin/Debug/net6.0/Task21
+/Users/work/Desktop/Seminar 3./Task21/bin/Debug/net6.0/Task21.deps.json
+/Users/work/Desktop/Seminar 3./Task21/bin/Debug/net6.0/Task21.runtimeconfig.json
+/Users/work/Desktop/Seminar 3./Task21/bin/Debug/net6.0/Task21.dll
+/Users/work/Desktop/Seminar 3./Task21/bin/Debug/net6.0/Task21.pdb
+/Users/work/Desktop/Seminar 3./Task21/obj/Debug/net6.0/Task21.csproj.AssemblyReference.cache
+/Users/work/Desktop/Seminar 3./Task21/obj/Debug/net6.0/Task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/work/Desktop/Seminar 3./Task21/obj/Debug/net6.0/Task21.AssemblyInfoInputs.cache
+/Users/work/Desktop/Seminar 3./Task21/obj/Debug/net6.0/Task21.AssemblyInfo.cs
+/Users/work/Desktop/Seminar 3./Task21/obj/Debug/net6.0/Task21.csproj.CoreCompileInputs.cache
+/Users/work/Desktop/Seminar 3./Task21/obj/Debug/net6.0/Task21.dll
+/Users/work/Desktop/Seminar 3./Task21/obj/Debug/net6.0/refint/Task21.dll
+/Users/work/Desktop/Seminar 3./Task21/obj/Debug/net6.0/Task21.pdb
+/Users/work/Desktop/Seminar 3./Task21/obj/Debug/net6.0/Task21.genruntimeconfig.cache
+/Users/work/Desktop/Seminar 3./Task21/obj/Debug/net6.0/ref/Task21.dll
