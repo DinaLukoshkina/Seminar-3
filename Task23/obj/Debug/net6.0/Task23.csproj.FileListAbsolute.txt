@@ -1,0 +1,15 @@
+/Users/work/Desktop/Seminar 3./Task23/bin/Debug/net6.0/Task23
+/Users/work/Desktop/Seminar 3./Task23/bin/Debug/net6.0/Task23.deps.json
+/Users/work/Desktop/Seminar 3./Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/Users/work/Desktop/Seminar 3./Task23/bin/Debug/net6.0/Task23.dll
+/Users/work/Desktop/Seminar 3./Task23/bin/Debug/net6.0/Task23.pdb
+/Users/work/Desktop/Seminar 3./Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/Users/work/Desktop/Seminar 3./Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/work/Desktop/Seminar 3./Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/Users/work/Desktop/Seminar 3./Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/Users/work/Desktop/Seminar 3./Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/Users/work/Desktop/Seminar 3./Task23/obj/Debug/net6.0/Task23.dll
+/Users/work/Desktop/Seminar 3./Task23/obj/Debug/net6.0/refint/Task23.dll
+/Users/work/Desktop/Seminar 3./Task23/obj/Debug/net6.0/Task23.pdb
+/Users/work/Desktop/Seminar 3./Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
+/Users/work/Desktop/Seminar 3./Task23/obj/Debug/net6.0/ref/Task23.dll
