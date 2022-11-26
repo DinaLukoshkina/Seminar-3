@@ -40,7 +40,9 @@ public class Program
             {
                 for (int k = 0; k < arrSize; k++)
                 {
-                    Console.Write(arr[(i), (j), (k)] + "()");
+
+                    Console.Write("{0}({1},{2},{3})", arr[i, j, k], i, j, k);
+
                 }
                 Console.WriteLine();
             }
