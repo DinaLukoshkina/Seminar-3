@@ -1,0 +1,15 @@
+/Users/work/Desktop/Seminar 3./Task60/bin/Debug/net6.0/Task60
+/Users/work/Desktop/Seminar 3./Task60/bin/Debug/net6.0/Task60.deps.json
+/Users/work/Desktop/Seminar 3./Task60/bin/Debug/net6.0/Task60.runtimeconfig.json
+/Users/work/Desktop/Seminar 3./Task60/bin/Debug/net6.0/Task60.dll
+/Users/work/Desktop/Seminar 3./Task60/bin/Debug/net6.0/Task60.pdb
+/Users/work/Desktop/Seminar 3./Task60/obj/Debug/net6.0/Task60.csproj.AssemblyReference.cache
+/Users/work/Desktop/Seminar 3./Task60/obj/Debug/net6.0/Task60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/work/Desktop/Seminar 3./Task60/obj/Debug/net6.0/Task60.AssemblyInfoInputs.cache
+/Users/work/Desktop/Seminar 3./Task60/obj/Debug/net6.0/Task60.AssemblyInfo.cs
+/Users/work/Desktop/Seminar 3./Task60/obj/Debug/net6.0/Task60.csproj.CoreCompileInputs.cache
+/Users/work/Desktop/Seminar 3./Task60/obj/Debug/net6.0/Task60.dll
+/Users/work/Desktop/Seminar 3./Task60/obj/Debug/net6.0/refint/Task60.dll
+/Users/work/Desktop/Seminar 3./Task60/obj/Debug/net6.0/Task60.pdb
+/Users/work/Desktop/Seminar 3./Task60/obj/Debug/net6.0/Task60.genruntimeconfig.cache
+/Users/work/Desktop/Seminar 3./Task60/obj/Debug/net6.0/ref/Task60.dll
